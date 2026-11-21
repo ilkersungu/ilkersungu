@@ -1,16 +1,23 @@
-## Hi there 👋
+# Merhaba, ben İlker 👋
 
-<!--
-**ilkersungu/ilkersungu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇹🇷 **Türkçe**
 
-Here are some ideas to get you started:
+Ben **İlker Süngü**, 30 yaşındayım. Yazılıma yeni ilgi duymaya başladım ve öğrenme yolculuğumun başındayım.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Şu sıralar yazılımın temellerini öğreniyorum
+- 🛠️ Küçük projeler geliştirerek pratik yapıyorum
+- 🚀 Yakında projelerimi burada paylaşacağım, takipte kalın!
+
+---
+
+🇬🇧 **English**
+
+I'm **İlker Süngü**, 30 years old. I've recently become interested in software development and I'm at the start of my learning journey.
+
+- 🌱 Currently learning the fundamentals of programming
+- 🛠️ Practicing by building small projects
+- 🚀 I'll be sharing my projects here soon — stay tuned!
+
+---
+
+📫 Bana GitHub üzerinden ulaşabilirsiniz / You can reach me here on GitHub.
